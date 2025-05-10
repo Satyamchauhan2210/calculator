@@ -1,0 +1,22 @@
+
+
+input[type="text"]{
+  height: 90%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+input[type="button"]{
+  height: 100%;
+  width: 100%;
+}
+
+.abc{
+  background-color: rgb(85, 71, 53);
+  height: 300px;
+  width: 210px;
+  text-align: center;
+}
+body{
+  background-color: rgb(200, 194, 186);
+}
